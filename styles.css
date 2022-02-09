@@ -27,6 +27,10 @@ body{
     font-size: 3rem;
 }
 
+#heart{
+    font-size: xx-large;
+}
+
 @media(max-width: 1200px){
     #headingGroup h1{
         font-size: 2.2rem;
