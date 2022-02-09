@@ -1,0 +1,40 @@
+body{
+   background-color: #e3d7ff; 
+   font-family: 'Varela Round', sans-serif;;
+}
+
+#mainNavBar{
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+#mainNavBar .nav-link{
+    color: white;
+}
+#mainNavBar .nav-link:hover{
+    color: #01161e;
+}
+
+#mainNavBar .navbar-brand{
+    color: #01161e;
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+#headingGroup h1{
+    color: white;
+    font-weight: bolder;
+    font-size: 3rem;
+}
+
+@media(max-width: 1200px){
+    #headingGroup h1{
+        font-size: 2.2rem;
+        color: white;
+    font-weight: bolder;
+    }
+
+}
+
+
+
